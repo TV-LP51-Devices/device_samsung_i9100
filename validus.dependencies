@@ -5,7 +5,7 @@
 	    "branch":     "cm-12.0"	
     },
     {
-        "repository": "Lysergic-Acid/android_device_samsung_galaxys2-common",
+        "repository": "Team-Validus/device_samsung_galaxys2-common",
         "target_path": "device/samsung/galaxys2-common",
 	    "branch":     "cm-12.0"	
     },
