@@ -23,10 +23,9 @@ LOCAL_PATH := device/samsung/i9100
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 # These poor devices have smaller screens
-PRODUCT_AAPT_CONFIG := normal hdpi xhdpi
-PRODUCT_AAPT_PREF_CONFIG := xhdpi
-TARGET_SCREEN_HEIGHT := 800
-TARGET_SCREEN_WIDTH := 480
+PRODUCT_AAPT_CONFIG := normal hdpi
+PRODUCT_AAPT_PREF_CONFIG := hdpi
+PRODUCT_LOCALES += hdpi
 
 $(call inherit-product, frameworks/native/build/phone-hdpi-512-dalvik-heap.mk)
 
