@@ -10,3 +10,6 @@ persist.sys.media.use-awesome=true
 # Dalvik
 persist.sys.dalvik.multithread=true
 dalvik.vm.dexopt-data-only=1
+
+# Lock launcher in memory
+ro.HOME_APP_ADJ=1
