@@ -35,11 +35,11 @@ profiler.force_disable_err_rpt=1
 profiler.force_disable_ulog=1
 
 # Better net speeds.
-net.tcp.buffersize.default=4096,87380,256960,4096, 16384,256960
-net.tcp.buffersize.wifi=4096,87380,256960,4096,163 84,256960
-net.tcp.buffersize.umts=4096,87380,256960,4096,163 84,256960
-net.tcp.buffersize.gprs=4096,87380,256960,4096,163 84,256960
-net.tcp.buffersize.edge=4096,87380,256960,4096,163 84,256960
+# net.tcp.buffersize.default=4096,87380,256960,4096, 16384,256960
+# net.tcp.buffersize.wifi=4096,87380,256960,4096,163 84,256960
+# net.tcp.buffersize.umts=4096,87380,256960,4096,163 84,256960
+# net.tcp.buffersize.gprs=4096,87380,256960,4096,163 84,256960
+# net.tcp.buffersize.edge=4096,87380,256960,4096,163 84,256960
 
 wifi.supplicant_scan_interval=90
 
