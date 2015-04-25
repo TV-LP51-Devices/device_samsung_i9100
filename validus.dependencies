@@ -10,7 +10,7 @@
         "branch":     "lp5.1"	
     },
     {
-        "repository": "CyanogenMod/android_hardware_samsung",
+        "repository": "Lysergic-Acid/android_hardware_samsung",
         "target_path": "hardware/samsung",
         "branch":     "cm-12.1"
     },
