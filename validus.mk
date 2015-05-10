@@ -38,18 +38,18 @@ PRODUCT_MODEL := GT-I9100
 
 PRODUCT_COPY_FILES += \
 #	device/samsung/i9100/prebuilt/Camera2.apk:system/addon.d/Camera2.apk \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Dexter_Sms_Qsy.mp3:system/media/audio/notifications/!Dexter_Sms_Qsy.ogg \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Electronic_Ring.mp3:system/media/audio/notifications/!Electronic_Ring.ogg \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Exclusive_Sms.mp3:system/media/audio/notifications/!Exclusive_Sms.ogg \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Excuse_Me_Boss.mp3:system/media/audio/notifications/!Excuse_Me_Boss.ogg \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Facebook_Message.mp3:system/media/audio/notifications/!Facebook_Message.ogg \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Galaxy_S5_Sms.mp3:system/media/audio/notifications/!Galaxy_S5_Sms.ogg \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Intel.mp3:system/media/audio/notifications/!Intel.ogg \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!ios7_Cute_Sms.mp3:system/media/audio/notifications/!ios7_Cute_Sms.ogg \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!message_tone.mp3:system/media/audio/notifications/!message_tone.ogg \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Nokia_Message.mp3:system/media/audio/notifications/!Nokia_Message.ogg \
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Dexter_Sms_Qsy.ogg:system/media/audio/notifications/!Dexter_Sms_Qsy.ogg \
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Electronic_Ring.ogg:system/media/audio/notifications/!Electronic_Ring.ogg \
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Exclusive_Sms.ogg:system/media/audio/notifications/!Exclusive_Sms.ogg \
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Excuse_Me_Boss.ogg:system/media/audio/notifications/!Excuse_Me_Boss.ogg \
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Facebook_Message.ogg:system/media/audio/notifications/!Facebook_Message.ogg \
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Galaxy_S5_Sms.ogg:system/media/audio/notifications/!Galaxy_S5_Sms.ogg \
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Intel.ogg:system/media/audio/notifications/!Intel.ogg \
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!ios7_Cute_Sms.ogg:system/media/audio/notifications/!ios7_Cute_Sms.ogg \
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!message_tone.ogg:system/media/audio/notifications/!message_tone.ogg \
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Nokia_Message.ogg:system/media/audio/notifications/!Nokia_Message.ogg \
 	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Spica.ogg:system/media/audio/notifications/!Spica.ogg \
-	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Windows.mp3:system/media/audio/notifications/!Windows.ogg
+	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Windows.ogg:system/media/audio/notifications/!Windows.ogg
 
 # Set build fingerprint / ID / Prduct Name ect.
 PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=GT-I9100 TARGET_DEVICE=GT-I9100 BUILD_FINGERPRINT=samsung/GT-I9100/GT-I9100:4.1.2/JZO54K/I9100XWMS2:user/release-keys PRIVATE_BUILD_DESC="GT-I9100-user 4.1.2 JZO54K I9100XWMS2 release-keys"
