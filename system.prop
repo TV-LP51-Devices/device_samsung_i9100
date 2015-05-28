@@ -62,6 +62,8 @@ ro.config.hw_quickpoweron=true
 ro.kernel.android.checkjni=0
 ro.kernel.checkjni=0
 
+# XPrivacy
+xprivacy.options=ignoreselinux
 
 
 
