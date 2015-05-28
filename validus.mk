@@ -36,8 +36,9 @@ PRODUCT_NAME := validus_i9100
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := GT-I9100
 
-PRODUCT_COPY_FILES += \
+# PRODUCT_COPY_FILES += \
 #	device/samsung/i9100/prebuilt/Camera2.apk:system/addon.d/Camera2.apk \
+PRODUCT_COPY_FILES += \
 	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Dexter_Sms_Qsy.ogg:system/media/audio/notifications/!Dexter_Sms_Qsy.ogg \
 	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Electronic_Ring.ogg:system/media/audio/notifications/!Electronic_Ring.ogg \
 	device/samsung/i9100/prebuilt/system/media/audio/notifications/!Exclusive_Sms.ogg:system/media/audio/notifications/!Exclusive_Sms.ogg \

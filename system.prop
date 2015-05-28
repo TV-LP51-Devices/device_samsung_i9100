@@ -12,7 +12,7 @@ persist.sys.dalvik.multithread=true
 dalvik.vm.dexopt-data-only=1
 
 # Lock launcher in memory
-ro.HOME_APP_ADJ=1
+#ro.HOME_APP_ADJ=1
 #sys.keep_app_1=com.your.app.app
 
 # Phone rings immediately
