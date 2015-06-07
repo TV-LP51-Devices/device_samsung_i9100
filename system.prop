@@ -35,6 +35,7 @@ ro.media.enc.jpeg.quality=100
 #debug.sf.nobootanimation=1
 dalvik.vm.startheapsize=8M
 video.accelerate.hw=1
+ro.config.hwfeature_wakeupkey=0
 
 # Disables built in error reporting.
 profiler.force_disable_err_rpt=1
