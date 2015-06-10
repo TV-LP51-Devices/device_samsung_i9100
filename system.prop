@@ -17,25 +17,23 @@ dalvik.vm.dexopt-data-only=1
 
 # Phone rings immediately
 ro.telephony.call_ring.delay=0
+ring.delay=0 
 
 # Disables blackscreen issue after a call.
 ro.lge.proximity.delay=25
 mot.proximity.delay=25
 
 # Better scrolling.
-windowsmgr.max_events_per_sec=300
+windowsmgr.max_events_per_sec=150
 ro.min_pointer_dur=8
 ro.max.fling_velocity=12000
 ro.min.fling_velocity=8000
+touch.pressure.scale=0.1
 
-wifi.supplicant_scan_interval=90
-pm.sleep_mode=1
-persist.sys.purgeable_assets=1
-ro.media.enc.jpeg.quality=100 
+wifi.supplicant_scan_interval=180
+#ro.media.enc.jpeg.quality=100 
 #debug.sf.nobootanimation=1
 dalvik.vm.startheapsize=8M
-video.accelerate.hw=1
-ro.config.hwfeature_wakeupkey=0
 
 # Disables built in error reporting.
 profiler.force_disable_err_rpt=1
